@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
+- Harsh Soni
 
 ## 🙏 Acknowledgments
 
@@ -222,4 +222,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your@email.com or create an issue in the repository. 
+For support, email harshsoni04304@email.com or create an issue in the repository. 
